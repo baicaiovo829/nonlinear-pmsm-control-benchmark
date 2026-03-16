@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+*.log
+*.slxc
+*.mdl.r202*
+*.slx.r202*
+*.p
+*.m~
+*.bak
+
+# Simulink cache
+slprj/
+*_autosave/
+
+# OS
+.DS_Store
